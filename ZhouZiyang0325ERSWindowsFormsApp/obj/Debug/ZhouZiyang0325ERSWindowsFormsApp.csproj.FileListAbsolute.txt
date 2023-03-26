@@ -1,0 +1,11 @@
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\bin\Debug\ZhouZiyang0325ERSWindowsFormsApp.exe.config
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\bin\Debug\ZhouZiyang0325ERSWindowsFormsApp.exe
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\bin\Debug\ZhouZiyang0325ERSWindowsFormsApp.pdb
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.csproj.AssemblyReference.cache
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.EmployeeRecordFrom.resources
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.Properties.Resources.resources
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.csproj.GenerateResource.cache
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.exe
+F:\vis\code\1\ZhouZiyang0325ERSWindowsFormsApp\obj\Debug\ZhouZiyang0325ERSWindowsFormsApp.pdb
